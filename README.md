@@ -59,17 +59,15 @@ After comparing performance metrics, **Random Forest Regressor** was selected as
 
 ## 📁 Project Structure
 
-
 car_price_prediction/
 │
 ├── app.py
 ├── style.css
 ├── requirements.txt
 ├── car_price_model.pkl
-├── Cleaned df.csv
+├── Cleaned_df.csv
 ├── car_banner.jpg
-├── README.md
-```
+└── README.md
 
 ## 🚀 How to Run Locally
 
@@ -92,11 +90,6 @@ pip install -r requirements.txt
 
 
 streamlit run app.py
-
-
-## 📸 Application Preview
-
-<img width="809" height="427" alt="image" src="https://github.com/user-attachments/assets/8be4568a-ede6-46f5-b730-6b9def34421e" />
 
 
 
