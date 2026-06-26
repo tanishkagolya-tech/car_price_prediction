@@ -62,11 +62,17 @@ After comparing performance metrics, **Random Forest Regressor** was selected as
 car_price_prediction/
 │
 ├── app.py
+|
 ├── style.css
+|
 ├── requirements.txt
+|
 ├── car_price_model.pkl
+|
 ├── Cleaned_df.csv
+|
 ├── car_banner.jpg
+|
 └── README.md
 
 ## 🚀 How to Run Locally
